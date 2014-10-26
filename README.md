@@ -11,7 +11,7 @@ ECE382_Lab4
 
 ###C code definitions
 
-![analyzer]https://raw.githubusercontent.com/gytenis98/ECE382_Lab4/master/prelab2.JPG?raw=true "analyzer")
+![analyzer](https://raw.githubusercontent.com/gytenis98/ECE382_Lab4/master/prelab2.JPG?raw=true "analyzer")
 
 ###Calling/Return Convention
 
